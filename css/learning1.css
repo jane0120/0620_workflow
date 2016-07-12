@@ -1,0 +1,49 @@
+body{
+
+
+
+}
+p{
+    font-family: SimSun-ExtB;
+    color: #fff;
+    font-size: 16pt;
+}
+
+
+.container{
+    background: url(../images/imgs_learning/bg.png) no-repeat;
+    background-size:100%;
+    display: flex;
+    display: -webkit-flex;
+    margin:0 auto;
+
+}
+
+
+.box{
+    display: flex;
+    width: 1024px;
+    height: 716px;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+
+}
+.box img{
+    max-width: 100px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+
+}
+.footer{
+    height:52px;
+    display: flex;
+    display: -webkit-flex;
+
+
+
+}

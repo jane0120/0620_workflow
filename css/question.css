@@ -1,0 +1,100 @@
+body{
+    background: url("../images/bg.png") no-repeat;
+    background-size:  100%;
+    margin: 0 auto;
+    font-family: SimSun-ExtB;
+    line-height: 20px;
+
+}
+.menu a:nth-child(1){
+    width: 50px;
+    height: 50px;
+    float: left;
+    display: block;
+    background: url("../images/home.png") no-repeat;
+    margin-top: -50px;
+    margin-left: 400px;
+
+
+}
+.menu a:nth-child(2){
+    width: 50px;
+    height: 50px;
+    float:left;
+    display: block;
+    background:url("../images/close.png") no-repeat;
+    margin-top: -50px;
+    margin-left: 1100px;
+}
+/*.scheme{*/
+    /*width: 350px;*/
+    /*border:1px solid #95d1a8;*/
+    /*margin: 0 auto;*/
+/*}*/
+.scheme a{
+    display: block;
+    width: 400px;
+    height: 100px;
+    margin-top: 200px;
+    margin-left: 600px;
+    background: url("../images/jiejue.png") no-repeat;
+}
+.hot span,.footer span{
+    display: block;
+}
+.hot span:nth-child(1){
+    margin-top: 40px;
+    margin-left: 645px;
+}
+.hot span:nth-child(2){
+    margin-top: -200px;
+    margin-left: 590px;
+
+}
+.hot span:nth-child(3){
+   margin-top: -196px;
+    margin-left: 930px;
+}
+.hot span:nth-child(4){
+    margin-top: 160px;
+    margin-left: 795px;
+}
+.hot span:nth-child(5){
+    margin-top: -240px;
+    margin-left: 696px;
+}
+.hot span:nth-child(6){
+    margin-top: 162px;
+    margin-left: 590px;
+}
+.hot span:nth-child(7){
+    margin-top: 15px;
+    margin-left: 700px;
+}
+.hot span:nth-child(8){
+    margin-top: -212px;
+    margin-left: 767px;
+}
+.hot span:nth-child(9){
+    margin-top: 87px;
+    margin-left: 827px;
+}
+.hot span:nth-child(10){
+    margin-top: -116px;
+    margin-left: 625px;
+}
+.footer span:nth-child(1){
+    margin-top: 280px;
+    margin-left: 420px;
+
+}
+.footer span:nth-child(2){
+    margin-top: -90px;
+    margin-left: 695px;
+
+}
+.footer span:nth-child(3){
+    margin-top: -90px;
+    margin-left: 990px;
+
+}

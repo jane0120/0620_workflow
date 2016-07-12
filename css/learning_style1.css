@@ -1,0 +1,69 @@
+/*.box img {*/
+    /*animation: img_rotate 2s linear  infinite ;*/
+/*}*/
+/*@keyframes img_rotate {*/
+    /*0%{ opacity: 0.3;*/
+        /*-webkit-transform:  rotate(90deg );*/
+        /*-moz-transform:  rotate(90deg );*/
+        /*-ms-transform:  rotate(90deg );*/
+        /*-o-transform: rotate(90deg );*/
+        /*transform:  rotate(90deg );*/
+
+
+
+
+    /*}*/
+   /*25%{ opacity:0.5;*/
+       /*-webkit-transform:  rotate(180deg);*/
+       /*-moz-transform:  rotate(180deg);*/
+       /*-ms-transform:  rotate(180deg);*/
+       /*-o-transform:  rotate(180deg);*/
+       /*transform:  rotate(180deg);*/
+
+
+
+   /*}*/
+   /*75%{*/
+       /*opacity:0.8;*/
+       /*-webkit-transform:  rotate(270deg);*/
+       /*-moz-transform:  rotate(270deg);*/
+       /*-ms-transform:  rotate(270deg);*/
+       /*-o-transform:  rotate(270deg);*/
+       /*transform:  rotate(270deg);*/
+
+
+   /*}*/
+   /*100%{*/
+       /*opacity:1;*/
+       /*-webkit-transform:  rotate(360deg);*/
+       /*-moz-transform:  rotate(360deg);*/
+       /*-ms-transform: rotate(360deg);*/
+       /*-o-transform:  rotate(360deg);*/
+       /*transform:  rotate(360deg);*/
+
+
+   /*}*/
+
+/*}*/
+.loading_num{
+    border:1px solid red;
+    height: 72px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 600px;
+    /*animation: loader 10s linear infinite;*/
+}
+/*@keyframes loader {*/
+    /*from {*/
+        /*width: 0%;*/
+    /*}*/
+    /*to {*/
+        /*width: 100%;*/
+    /*}*/
+/*}*/
+
+
+
+
+
+

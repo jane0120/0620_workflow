@@ -1,0 +1,115 @@
+/*.circle{*/
+    /*margin: 0 auto;*/
+    /*border:1px solid red;*/
+    /*width:200px;*/
+    /*height: 200px;*/
+/*}*/
+/*.circle{*/
+    /*!*radius必须是宽高的50%，宽高相同*!*/
+    /*border-radius: 20px;*/
+    /*-webkit-border-radius: 20px;*/
+    /*width:40px;*/
+    /*height: 40px;*/
+    /*background: #eec355;*/
+
+/*}*/
+/*.line{*/
+    /*border-bottom: 1px solid #3cb46d;*/
+    /*-webkit-transform: rotate(20deg);*/
+    /*-moz-transform: rotate(20deg);*/
+    /*-ms-transform: rotate(20deg);*/
+    /*-o-transform: rotate(20deg);*/
+    /*transform: rotate(20deg);*/
+    /*transition:width 2s;*/
+    /*width:40px;*/
+    /*height: 40px;*/
+/*}*/
+
+
+
+/*.line{*/
+    /*width: 500px;*/
+    /*height: 400px;*/
+    /*border:1px solid red;*/
+/*}*/
+/*.svg_line{*/
+    /*margin: 20px;*/
+    /**/
+    /**/
+/*}*/
+/*.svg_line line{*/
+  /*stroke: #3cb46d;*/
+  /*!*stroke-width: 1px;*!*/
+    /*-webkit-animation: line1 1s  cubic-bezier(0.48, 0.25, 0.21, 0.87) forwards;*/
+    /*-o-animation: line1 1s cubic-bezier(0.48, 0.25, 0.21, 0.87) forwards ;*/
+    /*animation: line1 1s cubic-bezier(0.48, 0.25, 0.21, 0.87) forwards ;*/
+    /*stroke-dasharray:234;*/
+    /*stroke-dashoffset: 234;*/
+/*}*/
+/*.svg_line line:nth-child(1){*/
+
+/*}*/
+/*.svg_line line:nth-child(2){*/
+
+
+
+
+/*}*/
+/*.svg_line line:nth-child(3){*/
+
+
+
+/*}*/
+/*.svg_line line:nth-child(4){*/
+
+
+
+/*}*/
+/*@keyframes line1{*/
+
+  /*100%{*/
+     /*stroke-dashoffset: 0;*/
+
+    /*}*/
+
+
+/*}*/
+
+
+
+.stream{
+    border:1px solid red;
+    height: 700px;
+    width: 700px;
+}
+.svg_stream{
+
+
+}
+.svg_g circle{
+    r:18;
+    fill:#3cb46f;
+    fill-opacity:1;
+    fill-rule:nonzero;
+}
+.path1{
+    fill:none;fill-rule:evenodd;
+    stroke:#3cb46f;
+    stroke-width:1.81599998;
+    stroke-linecap:butt;
+    stroke-linejoin:miter;
+    stroke-opacity:1;
+    fill-opacity:1;
+    stroke-miterlimit:4;
+    stroke-dasharray:7.26399994,7.26399994;
+    stroke-dashoffset:0;
+    /*d:m 564.25773,800.90202 c 38.41839,34.91231 38.64434,70.03136 38.64434,70.03136 M 490,653.79078 c -30,147.14285 75.71428,148.57142 75.71428,148.57142 m 32.85715,121.42857 c 42.85715,32.85717 25.71428,48.57142 25.71428,48.57142 -102.85714,81.42861 -161.42857,45.71431 -161.42857,45.71431 m -8.57142,-532.85715 c -105.71429,-42.85715 -130,5.71427 -130,5.71427 -55.71429,51.42858 71.42856,98.57145 71.42856,98.57145 45.71429,-21.42858 65.71429,14.28571 65.71429,14.28571 M 627.14286,459.50507 c -28.57144,55.71428 -82.85716,24.28569 -82.85716,24.28569 -12.85714,-38.57142 -89.99999,4.28574 -89.99999,4.28574 M 460,312.36221 c -88.57143,105.71428 5.71429,75.71428 5.71429,75.71428 130,-40 168.57142,20 168.57142,20 M 87.142857,125.21935 c -9.986401,239.61905 129.661653,166.3064 147.142863,135.71428 110.93224,-74.48569 225.86411,18.01733 221.42857,14.28572;*/
+
+}
+
+
+
+
+
+
+
